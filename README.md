@@ -1,4 +1,4 @@
-# Data Analytics Learning Journey
+# Data Analytics Learning Porfolio
 
 Welcome to my data analytics learning portfolio.
 
