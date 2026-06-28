@@ -19,10 +19,10 @@ This repository documents my progress through hands-on exercises, projects, and 
 ## Projects
 
 ### Upcoming Projects
-- Fuelwood Consumption Analysis in Mali
 - Environmental Kuznets Curve (EKC) Analysis
 - SQL Analytics Portfolio
 - Interactive Power BI Dashboards
+- Fuelwood Consumption Analysis in Mali
 
 ## Tools
 
